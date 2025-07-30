@@ -1,0 +1,14 @@
+[
+    {
+        "topic": "machine learning",
+        "start_date": "2025-07-30",
+        "end_date": "2025-08-06",
+        "summary": "What is machine learning? - https://en.wikipedia.org/wiki/machine_learning | YouTube Intro to machine learning - https://www.youtube.com/results?search_query=introduction+to+machine+learning | Benefits and Risks of machine learning - https://medium.com/tag/machine-learning | Research Paper on machine learning - https://scholar.google.com/scholar?q=machine+learning"
+    },
+    {
+        "topic": "openai",
+        "start_date": "2025-08-07",
+        "end_date": "2025-08-14",
+        "summary": "What is openai? - https://en.wikipedia.org/wiki/openai | YouTube Intro to openai - https://www.youtube.com/results?search_query=introduction+to+openai | Benefits and Risks of openai - https://medium.com/tag/openai | Research Paper on openai - https://scholar.google.com/scholar?q=openai"
+    }
+]
